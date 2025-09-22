@@ -24,6 +24,6 @@
 
 - **SIH Presentation:** [NA]
 - **Video Demonstration:** [NA]
-- **Live Deployment:** [VISIT SITE](http://career-disha.onrender.com)
+- **Live Deployment:** [career-disha](http://career-disha.onrender.com)
 - **Source Code:** [GitHub Repository](https://github.com/KeeratMalhotra/Career-Disha)
 - **Additional Resources:** [NA]
