@@ -23,7 +23,7 @@
 ## Project Links
 
 - **SIH Presentation:** [ppt](https://www.canva.com/design/DAGzdV6F504/keeqCWwh3mczsOJ-TlDWBg/edit?utm_content=DAGzdV6F504&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton )
-- **Video Demonstration:** [NA]
+- **Video Demonstration:** [video](https://youtu.be/cJ2eIcv7mMA)
 - **Live Deployment:** [career-disha](http://career-disha.onrender.com)
 - **Source Code:** [GitHub Repository](https://github.com/KeeratMalhotra/Career-Disha)
 - **Additional Resources:** [NA]
